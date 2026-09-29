@@ -1,0 +1,16 @@
+__pycache__/
+*.pyc
+
+.vscode/
+
+.env
+
+*.log
+
+models/*.pkl
+models/*.joblib
+
+outputs/*.json
+outputs/*.csv
+
+.ipynb_checkpoints/
